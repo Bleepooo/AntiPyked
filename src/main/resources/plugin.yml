@@ -1,0 +1,6 @@
+name: AntiPykedNigger
+version: '${project.version}'
+main: dev.bleepo.antipykednigger.Main
+api-version: 1.17
+authors: [ Bleepo ]
+description: Crash Pyked lol
